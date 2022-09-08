@@ -19,3 +19,10 @@ int main()
     printf("ASCII comparison of two strings is %d\n", strcmp(s1, s2));
     return 0;
 }
+
+Output:
+concatenation of two strings is:AnnuTannu
+Reverse of s2 is:unnaT
+Length of string s1 is 9
+s1 is copied to s3 as:unnaT
+ASCII comparison of two strings is -1 
